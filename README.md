@@ -1,1 +1,8 @@
 #PERTANYAAN DAN PERCOBAAN DI REPOSITORY INI BU#
+
+
+<br></br>
+
+<h2>PERTANYAAN 1 DI FILE pertanyaan1.md</h2>
+<h2>PERTANYAAN 2 DI FILE pertanyaan2.md</h2>
+<h2>PERTANYAAN 3 DI FILE pertanyaan3.md</h2>
